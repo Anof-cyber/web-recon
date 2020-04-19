@@ -16,3 +16,13 @@ Web-recon is reconnaissance script use multiple tools to gather information for 
 - [httprobe](https://github.com/tomnomnom/httprobe)
 - [dirsearch](https://github.com/maurosoria/dirsearch)
 - [Securityheaders](https://securityheaders.com/)
+
+# Usage
+```
+git clone https://github.com/Anof-cyber/web-recon
+cd web-recon
+chmod +x install.sh
+sudo ./install.sh
+chmod +x web-recon.sh
+sudo ./web-recon.sh
+````
